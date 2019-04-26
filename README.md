@@ -1,1 +1,1 @@
-# q_time_baro
+# quahog-timer-bme280
